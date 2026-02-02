@@ -24,7 +24,7 @@ By using this application, you agree to the following terms and conditions. I am
 • **Official Information**: I am the only official source of information regarding the development and status of my applications.  
 
 ### 5. Third-Party DNS Providers
-This application allows you to use third-party DNS services. By choosing a provider, you also agree to their respective terms:
+This application allows you to use third-party DNS services. By choosing a provider, you also agree to their respective terms:  
 • [Cloudflare Terms of Service](https://www.cloudflare.com/website-terms/).  
 • [Google Public DNS Terms](https://developers.google.com/speed/public-dns/terms).  
 • [Yandex Terms of Use](https://yandex.com/legal/termsofuse/).  

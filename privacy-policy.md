@@ -12,7 +12,7 @@ The app utilizes a Network Extension to provide protection. Although this may ap
 • **Encryption**: You can choose to use encrypted DNS (DNS-over-HTTPS or DNS-over-TLS) within the app to prevent your ISP or local network from seeing your requests.  
 
 ### 3. Third-Party DNS Providers
-When you select a DNS provider, your unblocked requests are subject to their respective privacy policies. You can choose from the following:
+When you select a DNS provider, your unblocked requests are subject to their respective privacy policies. You can choose from the following:  
 • [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).  
 • [Google Public DNS Privacy](https://developers.google.com/speed/public-dns/privacy).  
 • [Yandex Privacy Policy](https://yandex.com/legal/confidential/).  
