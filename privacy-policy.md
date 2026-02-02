@@ -7,24 +7,24 @@ I do not collect, track, or store any personal data. This app does not use third
 
 ### 2. Network Extension and DNS
 The app utilizes a Network Extension to provide protection. Although this may appear as a "VPN" in your system settings, it is a **Local DNS Proxy**.
-• **On-Device Processing**: All domain filtering and blocking happen locally on your device. Your browsing history is never sent to me or any third party.
-• **Remote Resolution**: To provide internet connectivity, unblocked domains are sent to a public DNS resolver of your choice to be translated into IP addresses.
-• **Encryption**: You can choose to use encrypted DNS (DNS-over-HTTPS or DNS-over-TLS) within the app to prevent your ISP or local network from seeing your requests.
+• **On-Device Processing**: All domain filtering and blocking happen locally on your device. Your browsing history is never sent to me or any third party. 
+• **Remote Resolution**: To provide internet connectivity, unblocked domains are sent to a public DNS resolver of your choice to be translated into IP addresses. 
+• **Encryption**: You can choose to use encrypted DNS (DNS-over-HTTPS or DNS-over-TLS) within the app to prevent your ISP or local network from seeing your requests. 
 
 ### 3. Third-Party DNS Providers
 When you select a DNS provider, your unblocked requests are subject to their respective privacy policies. You can choose from the following:
-• [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/)
-• [Google Public DNS Privacy](https://developers.google.com/speed/public-dns/privacy)
-• [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
-• [Alibaba Cloud Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm)
-• [Tencent Privacy Policy](https://www.tencent.com/en-us/privacy-policy.html)
+• [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) 
+• [Google Public DNS Privacy](https://developers.google.com/speed/public-dns/privacy) 
+• [Yandex Privacy Policy](https://yandex.com/legal/confidential/) 
+• [Alibaba Cloud Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm) 
+• [Tencent Privacy Policy](https://www.tencent.com/en-us/privacy-policy.html) 
 
 ### 4. Customer Support
 If you contact me via email through the Customer Support feature:
-• Your email address is used solely to respond to your inquiry.
-• I do not share your email with third parties.
-• I do not use your email for marketing, advertising, or spam.
-• I do not use your contact information for any form of analytics.
+• Your email address is used solely to respond to your inquiry. 
+• I do not share your email with third parties. 
+• I do not use your email for marketing, advertising, or spam. 
+• I do not use your contact information for any form of analytics. 
 
 ### 5. Sandboxing and Security
 The macOS version of this app operates within the system Sandbox, ensuring it only accesses the resources necessary to function, further protecting your system data.
