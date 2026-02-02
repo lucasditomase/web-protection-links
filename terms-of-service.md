@@ -25,11 +25,11 @@ By using this application, you agree to the following terms and conditions. I am
 
 ### 5. Third-Party DNS Providers
 This application allows you to use third-party DNS services. By choosing a provider, you also agree to their respective terms:
-• [Cloudflare Terms of Service](https://www.cloudflare.com/website-terms/) 
-• [Google Public DNS Terms](https://developers.google.com/speed/public-dns/terms) 
-• [Yandex Terms of Use](https://yandex.com/legal/termsofuse/) 
-• [Alibaba Cloud Policies](https://www.alibabacloud.com/help/faq-detail/42425.htm) 
-• [Tencent Terms of Service](https://www.tencent.com/en-us/service-agreement.html) 
+• [Cloudflare Terms of Service](https://www.cloudflare.com/website-terms/).  
+• [Google Public DNS Terms](https://developers.google.com/speed/public-dns/terms).  
+• [Yandex Terms of Use](https://yandex.com/legal/termsofuse/).  
+• [Alibaba Cloud Policies](https://www.alibabacloud.com/help/faq-detail/42425.htm).  
+• [Tencent Terms of Service](https://www.tencent.com/en-us/service-agreement.html).  
 
 ### 6. Acceptance of Terms
 By using this app, you acknowledge that you have read, understood, and agreed to be bound by these terms. Failure to comply may result in restricted access to the application or its services.  

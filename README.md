@@ -10,8 +10,8 @@ A comprehensive defense against malicious websites, phishing attempts, and onlin
 
 ### Support & Contact
 • **In-App**: Use the integrated support button to send me an email.  
-• **GitHub**: Technical feedback is welcome—[open an issue](https://github.com/lucasditomase/web-protection-links/issues/new).  
+• **GitHub**: Technical feedback is welcome. Please [open an issue](https://github.com/lucasditomase/web-protection-links/issues/new).  
 
 ### Legal
-• [Privacy Policy](https://github.com/lucasditomase/web-protection-links/blob/main/privacy-policy.md) 
-• [Terms and Conditions](https://github.com/lucasditomase/web-protection-links/blob/main/terms-of-service.md) 
+• [Privacy Policy](https://github.com/lucasditomase/web-protection-links/blob/main/privacy-policy.md).  
+• [Terms and Conditions](https://github.com/lucasditomase/web-protection-links/blob/main/terms-of-service.md).  

@@ -13,11 +13,11 @@ The app utilizes a Network Extension to provide protection. Although this may ap
 
 ### 3. Third-Party DNS Providers
 When you select a DNS provider, your unblocked requests are subject to their respective privacy policies. You can choose from the following:
-• [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) 
-• [Google Public DNS Privacy](https://developers.google.com/speed/public-dns/privacy) 
-• [Yandex Privacy Policy](https://yandex.com/legal/confidential/) 
-• [Alibaba Cloud Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm) 
-• [Tencent Privacy Policy](https://www.tencent.com/en-us/privacy-policy.html) 
+• [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).  
+• [Google Public DNS Privacy](https://developers.google.com/speed/public-dns/privacy).  
+• [Yandex Privacy Policy](https://yandex.com/legal/confidential/).  
+• [Alibaba Cloud Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm).  
+• [Tencent Privacy Policy](https://www.tencent.com/en-us/privacy-policy.html).  
 
 ### 4. Customer Support
 If you contact me via email through the Customer Support feature:
