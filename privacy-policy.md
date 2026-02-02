@@ -20,7 +20,7 @@ When you select a DNS provider, your unblocked requests are subject to their res
 • [Tencent Privacy Policy](https://www.tencent.com/en-us/privacy-policy.html).  
 
 ### 4. Customer Support
-If you contact me via email through the Customer Support feature:
+If you contact me via email through the Customer Support feature:  
 • Your email address is used solely to respond to your inquiry.  
 • I do not share your email with third parties.  
 • I do not use your email for marketing, advertising, or spam.  
