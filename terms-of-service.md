@@ -35,4 +35,4 @@ By using this application, you agree to the following terms and conditions. I am
 6.1 By using this app, you acknowledge that you have read, understood, and agreed to be bound by these terms. Failure to comply may result in restricted access to the application or its services.  
   
 ---  
-Last Updated: February 2026  
+Last Updated: March 2026  

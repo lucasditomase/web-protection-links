@@ -34,4 +34,4 @@ This Privacy Policy describes how your personal information is handled. I am an 
 6.2 I may update this policy from time to time; any changes will be reflected in the "What's New" section of the App Store updates.  
   
 ---  
-Last Updated: February 2026  
+Last Updated: March 2026  
