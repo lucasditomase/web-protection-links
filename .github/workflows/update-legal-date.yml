@@ -6,6 +6,10 @@ on:
       - 'privacy-policy.md'
       - 'terms-of-service.md'
 
+concurrency:
+  group: update-legal-date-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-date:
     runs-on: ubuntu-latest
@@ -38,7 +42,22 @@ jobs:
           git add privacy-policy.md terms-of-service.md
           if ! git diff-index --quiet HEAD; then
             git commit -m "Auto-update last edited date [skip ci]"
-            git push
+            max_attempts=5
+            attempt=1
+            until [ "$attempt" -gt "$max_attempts" ]; do
+              git pull --rebase origin "${GITHUB_REF_NAME}"
+              if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                echo "Push succeeded on attempt $attempt"
+                break
+              fi
+              echo "Push race detected (attempt $attempt/$max_attempts). Retrying..."
+              attempt=$((attempt + 1))
+              sleep 2
+            done
+            if [ "$attempt" -gt "$max_attempts" ]; then
+              echo "Failed to push after $max_attempts attempts."
+              exit 1
+            fi
           else
             echo "No changes to commit."
           fi
