@@ -44,4 +44,4 @@ By using this application, you agree to the following terms and conditions. I am
 8.1 By using this app, you acknowledge that you have read, understood, and agreed to be bound by these terms. Failure to comply may result in restricted access to the application or its services.
 
 ---
-Last Updated: March 7, 2026
+Last Updated: March 07, 2026
