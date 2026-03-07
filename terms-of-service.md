@@ -27,6 +27,7 @@ By using this application, you agree to the following terms of service. I am an 
 - [4. Limitation of Liability](#4-limitation-of-liability)  
   - [4.1 No Warranties](#41-no-warranties)  
   - [4.2 Damages Limitation](#42-damages-limitation)  
+  - [4.3 Scope of Liability Exclusions](#43-scope-of-liability-exclusions)  
 - [5. Communication and Support](#5-communication-and-support)  
   - [5.1 Technical Support](#51-technical-support)  
   - [5.2 No Marketing](#52-no-marketing)  
@@ -99,7 +100,7 @@ By using this application, you agree to the following terms of service. I am an 
   If the application offers auto-renewing subscriptions, payment will be charged to your iTunes Account at the confirmation of purchase. Subscriptions automatically renew unless canceled at least 24 hours prior to the end of the current billing period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase.  
   
 - ### [3.4](#34-apple-billing-and-refund-authority) Apple Billing and Refund Authority  
-  Billing, subscription management, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I do not process card payments directly and cannot independently grant or guarantee refunds outside Apple's systems.  
+  Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I do not process card payments directly, do not control Apple's billing records, and cannot independently grant or guarantee refunds outside Apple's systems.  
   
 ## 4. Limitation of Liability  
   
@@ -108,7 +109,10 @@ By using this application, you agree to the following terms of service. I am an 
   
 - ### [4.2](#42-damages-limitation) Damages Limitation  
   In no event shall I be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever, whether in an action of contract, negligence, or other tort, arising out of or in connection with the use of the application.  
-  
+
+- ### [4.3](#43-scope-of-liability-exclusions) Scope of Liability Exclusions  
+  To the maximum extent permitted by applicable law, I am not liable for data loss, service interruptions, connectivity failures, account issues, third-party provider behavior, legal or regulatory consequences of user conduct, or any copyright, trademark, or other intellectual-property disputes arising from user actions or third-party content. Users are solely responsible for lawful use of the app and for compliance with applicable laws, regulations, and third-party terms.  
+
 ## 5. Communication and Support  
   
 - ### [5.1](#51-technical-support) Technical Support  

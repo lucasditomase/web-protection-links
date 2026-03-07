@@ -6,6 +6,7 @@ This Privacy Policy describes how your personal information is handled. I am an 
   
 - [1. Data Collection and Usage](#1-data-collection-and-usage)  
   - [1.1 Data Handling Commitments](#11-data-handling-commitments)  
+  - [1.2 Apple Billing, Payments, and Refund Processing](#12-apple-billing-payments-and-refund-processing)  
 - [2. Network Extension and DNS](#2-network-extension-and-dns)  
   - [2.1 Local DNS Proxy](#21-local-dns-proxy)  
   - [2.2 On-Device Processing](#22-on-device-processing)  
@@ -33,7 +34,10 @@ This Privacy Policy describes how your personal information is handled. I am an 
   
 - ### [1.1](#11-data-handling-commitments) Data Handling Commitments  
   I do not collect, track, or store any personal data. This app does not use third-party libraries for advertising, analytics, or tracking. All code is native Apple code, ensuring maximum security and integration with the system.  
-  
+
+- ### [1.2](#12-apple-billing-payments-and-refund-processing) Apple Billing, Payments, and Refund Processing  
+  Purchases, subscriptions, billing details, payment instruments, and refund requests are handled by Apple through your App Store account under Apple's systems and policies. I do not process card payments directly, do not control Apple's billing records, and cannot independently approve or guarantee refunds outside Apple's systems.  
+
 ## 2. Network Extension and DNS  
   
 - ### [2.1](#21-local-dns-proxy) Local DNS Proxy  
