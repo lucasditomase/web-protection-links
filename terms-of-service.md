@@ -33,6 +33,7 @@ By using this application, you agree to the following terms of service. I am an 
   - [5.3 Official Information](#53-official-information)  
 - [6. Third-Party DNS Providers](#6-third-party-dns-providers)  
   - [6.1 Provider Terms](#61-provider-terms)  
+  - [6.2 Provider Control, Filtering, and Availability](#62-provider-control-filtering-and-availability)  
 - [7. Termination and Modification](#7-termination-and-modification)  
   - [7.1 Service Changes](#71-service-changes)  
   - [7.2 Termination Rights](#72-termination-rights)  
@@ -126,7 +127,10 @@ By using this application, you agree to the following terms of service. I am an 
   - (c) [Yandex Terms of Use](https://yandex.com/legal/termsofuse/).  
   - (d) [Alibaba Cloud Policies](https://www.alibabacloud.com/help/faq-detail/42425.htm).  
   - (e) [Tencent Terms of Service](https://www.tencent.com/en-us/service-agreement.html).  
-  
+
+- ### [6.2](#62-provider-control-filtering-and-availability) Provider Control, Filtering, and Availability  
+  Third-party DNS providers are independent services and are not owned or operated by me. I do not control what they block, allow, log, retain, or how they secure and process DNS requests. I do not guarantee provider availability, uptime, latency, accuracy, or uninterrupted operation, and I am not responsible for outages, filtering differences, or service-quality issues caused by those providers.  
+
 ## 7. Termination and Modification  
   
 - ### [7.1](#71-service-changes) Service Changes  
