@@ -211,13 +211,13 @@ By using this application, you agree to the following terms of service; I am an 
 - ### [6.1](#61-provider-terms) Provider Terms  
   This application allows you to use third-party DNS services. By choosing a provider, you also agree to their respective terms:  
   - (a) [Cloudflare Terms of Service](https://www.cloudflare.com/website-terms/).  
-
+  
   - (b) [Google Public DNS Terms](https://developers.google.com/speed/public-dns/terms).  
-
+  
   - (c) [Yandex Terms of Use](https://yandex.com/legal/termsofuse/).  
-
+  
   - (d) [Alibaba Cloud Policies](https://www.alibabacloud.com/help/faq-detail/42425.htm).  
-
+  
   - (e) [Tencent Terms of Service](https://www.tencent.com/en-us/service-agreement.html).  
   
 - ### [6.2](#62-provider-control-filtering-and-availability) Provider Control, Filtering, and Availability  
