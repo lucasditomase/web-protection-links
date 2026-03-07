@@ -30,12 +30,12 @@ By using this application, you agree to the following terms of service; I am an 
   - [3.3 Apple Subscriptions](#33-apple-subscriptions)  
   - [3.4 Apple Billing and Refund Authority](#34-apple-billing-and-refund-authority)  
   - [3.5 Business Model and Monetization Changes](#35-business-model-and-monetization-changes)  
-
+  
     - [3.5.1 Reasons for Monetization Changes](#351-reasons-for-monetization-changes)  
     - [3.5.2 Purchase and Offer Configuration Changes](#352-purchase-and-offer-configuration-changes)  
     - [3.5.3 Prior Pricing and Offer States](#353-prior-pricing-and-offer-states)  
   - [3.6 Feature Availability and Product Scope Changes](#36-feature-availability-and-product-scope-changes)  
-
+  
     - [3.6.1 Feature Scope and Availability](#361-feature-scope-and-availability)  
     - [3.6.2 External and Technical Change Drivers](#362-external-and-technical-change-drivers)  
   
@@ -64,7 +64,7 @@ By using this application, you agree to the following terms of service; I am an 
   - [7.1 Service Changes](#71-service-changes)  
   - [7.2 Termination Rights](#72-termination-rights)  
   - [7.3 Enforcement Actions](#73-enforcement-actions)  
-
+  
     - [7.3.1 Immediate Suspension and Permanent Blocking](#731-immediate-suspension-and-permanent-blocking)  
     - [7.3.2 Enforcement Independent of Purchase Status](#732-enforcement-independent-of-purchase-status)  
   

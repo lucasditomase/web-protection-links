@@ -21,7 +21,7 @@ This Privacy Policy describes how your personal information is handled; I am an 
   
   - [3.1 Provider Privacy Policies](#31-provider-privacy-policies)  
   - [3.2 Provider Control and Availability](#32-provider-control-and-availability)  
-
+  
     - [3.2.1 Provider Data Practices and Service Limits](#321-provider-data-practices-and-service-limits)  
     - [3.2.2 User Choice and Policy Governance](#322-user-choice-and-policy-governance)  
   - [3.3 Provider Ownership, Trademarks, and No Affiliation](#33-provider-ownership-trademarks-and-no-affiliation)  
