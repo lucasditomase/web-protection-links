@@ -164,7 +164,7 @@ By using this application, you agree to the following terms of service. I am an 
   I may terminate your access to the application and its services at any time, without notice, if you violate these terms of service.  
   
 - ### [7.3](#73-enforcement-actions) Enforcement Actions  
-  Violations may result in revocation of promotional eligibility, suspension of support access, reporting to Apple, and other actions permitted by law.  
+  Violations may result in revocation of promotional eligibility, suspension of support access, reporting to Apple, and other actions permitted by law. Detection, use, or attempted use of sideloading, jailbreaking, tampering, piracy, or other illegal activity may result in immediate suspension or permanent blocking of service access. Abusive behavior toward the developer or other users may also trigger immediate suspension or permanent blocking. These enforcement actions may be applied regardless of active subscription status, prior in-app purchases, lifetime purchases, or remaining billing period, to the extent permitted by applicable law.  
   
 ## 8. Acceptance of Terms  
   
