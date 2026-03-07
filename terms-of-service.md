@@ -100,7 +100,7 @@ By using this application, you agree to the following terms of service. I am an 
   If the application offers auto-renewing subscriptions, payment will be charged to your iTunes Account at the confirmation of purchase. Subscriptions automatically renew unless canceled at least 24 hours prior to the end of the current billing period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase.  
   
 - ### [3.4](#34-apple-billing-and-refund-authority) Apple Billing and Refund Authority  
-  Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I do not process card payments directly, do not control Apple's billing records, and cannot independently grant or guarantee refunds outside Apple's systems.  
+  Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I cannot issue refunds directly, do not process card payments, and do not control Apple's billing records. I also do not have access to your full payment or billing identity details, such as full credit/debit card information, billing addresses, or other Apple-held payment credentials. Any refund decisions and payment-data handling are controlled by Apple under Apple's policies.  
   
 ## 4. Limitation of Liability  
   
