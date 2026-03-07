@@ -1,0 +1,44 @@
+name: Update Legal Date
+
+on:
+  push:
+    paths:
+      - 'privacy-policy.md'
+      - 'terms-of-service.md'
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update Last Edited Date
+        run: |
+          CURRENT_DATE=$(date +"%B %d, %Y")
+          
+          update_file() {
+              local file=$1
+              if [ -f "$file" ]; then
+                  sed -i "s/^Last Updated: .*/Last Updated: $CURRENT_DATE/" "$file"
+              fi
+          }
+          
+          update_file "privacy-policy.md"
+          update_file "terms-of-service.md"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add privacy-policy.md terms-of-service.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-update last edited date [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
