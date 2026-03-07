@@ -1,87 +1,79 @@
-# Privacy Policy  
-  
-This Privacy Policy describes how your personal information is handled. I am an independent developer, and this app is designed with a "privacy-first" philosophy.  
-  
-## Table of Contents  
-  
-- [1. Data Collection and Usage](#section-1)  
-  - [1.1](#clause-1-1)  
-- [2. Network Extension and DNS](#section-2)  
-  - [2.1](#clause-2-1)  
-  - [2.2](#clause-2-2)  
-  - [2.3](#clause-2-3)  
-  - [2.4](#clause-2-4)  
-- [3. Third-Party DNS Providers](#section-3)  
-  - [3.1](#clause-3-1)  
-- [4. Customer Support](#section-4)  
-  - [4.1](#clause-4-1)  
-- [5. User Rights (GDPR & CCPA)](#section-5)  
-  - [5.1](#clause-5-1)  
-- [6. Children's Privacy (COPPA)](#section-6)  
-  - [6.1](#clause-6-1)  
-- [7. Sandboxing and Security](#section-7)  
-  - [7.1](#clause-7-1)  
-- [8. Acceptance and Changes](#section-8)  
-  - [8.1](#clause-8-1)  
-  - [8.2](#clause-8-2)  
-  
-<span id="section-1"></span>  
-### 1. Data Collection and Usage  
-#### <span id="clause-1-1"></span>[1.1](#clause-1-1)  
-I do not collect, track, or store any personal data. This app does not use third-party libraries for advertising, analytics, or tracking. All code is native Apple code, ensuring maximum security and integration with the system.  
-  
-<span id="section-2"></span>  
-### 2. Network Extension and DNS  
-#### <span id="clause-2-1"></span>[2.1](#clause-2-1)  
-The app utilizes a Network Extension to provide protection. Although this may appear as a "VPN" in your system settings, it is a **Local DNS Proxy**.  
-#### <span id="clause-2-2"></span>[2.2](#clause-2-2)  
-All domain filtering and blocking happen locally on your device. Your browsing history is never sent to me or any third party.  
-#### <span id="clause-2-3"></span>[2.3](#clause-2-3)  
-To provide internet connectivity, unblocked domains are sent to a public DNS resolver of your choice to be translated into IP addresses.  
-#### <span id="clause-2-4"></span>[2.4](#clause-2-4)  
-You can choose to use encrypted DNS (DNS-over-HTTPS or DNS-over-TLS) within the app to prevent your ISP or local network from seeing your requests.  
-  
-<span id="section-3"></span>  
-### 3. Third-Party DNS Providers  
-#### <span id="clause-3-1"></span>[3.1](#clause-3-1)  
-When you select a DNS provider, your unblocked requests are subject to their respective privacy policies. You can choose from the following:  
-  (a) [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).  
-  (b) [Google Public DNS Privacy](https://developers.google.com/speed/public-dns/privacy).  
-  (c) [Yandex Privacy Policy](https://yandex.com/legal/confidential/).  
-  (d) [Alibaba Cloud Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm).  
-  (e) [Tencent Privacy Policy](https://www.tencent.com/en-us/privacy-policy.html).  
-  
-<span id="section-4"></span>  
-### 4. Customer Support  
-#### <span id="clause-4-1"></span>[4.1](#clause-4-1)  
-If you contact me via email through the Customer Support feature:  
-  (a) Your email address is used solely to respond to your inquiry.  
-  (b) I do not share your email with third parties.  
-  (c) I do not use your email for marketing, advertising, or spam.  
-  (d) I do not use your contact information for any form of analytics.  
-  (e) Support emails are retained only as long as necessary to resolve your issue and are subsequently deleted.  
-  
-<span id="section-5"></span>  
-### 5. User Rights (GDPR & CCPA)  
-#### <span id="clause-5-1"></span>[5.1](#clause-5-1)  
-Under GDPR and CCPA, you have the right to request access to or deletion of your personal data. Because I do not collect or store your personal data, there is no data to access or delete.  
-  
-<span id="section-6"></span>  
-### 6. Children's Privacy (COPPA)  
-#### <span id="clause-6-1"></span>[6.1](#clause-6-1)  
-This app is not intended for use by children under the age of 13. I do not knowingly collect personal data from minors. If you believe a child has provided me with personal information, please contact support so I can take steps to remove such information.  
-  
-<span id="section-7"></span>  
-### 7. Sandboxing and Security  
-#### <span id="clause-7-1"></span>[7.1](#clause-7-1)  
-The macOS version of this app operates within the system Sandbox, ensuring it only accesses the resources necessary to function, further protecting your system data.  
-  
-<span id="section-8"></span>  
-### 8. Acceptance and Changes  
-#### <span id="clause-8-1"></span>[8.1](#clause-8-1)  
-By using this app, you accept the terms of this Privacy Policy.  
-#### <span id="clause-8-2"></span>[8.2](#clause-8-2)  
-I may update this policy from time to time; any changes will be reflected in the "What's New" section of the App Store updates.  
-  
----  
-Last Updated: March 07, 2026  
+# Privacy Policy
+
+This Privacy Policy describes how your personal information is handled. I am an independent developer, and this app is designed with a "privacy-first" philosophy.
+
+## Table of Contents
+
+- [1. Data Collection and Usage](#1-data-collection-and-usage)
+- [2. Network Extension and DNS](#2-network-extension-and-dns)
+- [3. Third-Party DNS Providers](#3-third-party-dns-providers)
+- [4. Customer Support](#4-customer-support)
+- [5. User Rights (GDPR and CCPA)](#5-user-rights-gdpr-and-ccpa)
+- [6. Children's Privacy (COPPA)](#6-childrens-privacy-coppa)
+- [7. Sandboxing and Security](#7-sandboxing-and-security)
+- [8. Acceptance and Changes](#8-acceptance-and-changes)
+
+## 1. Data Collection and Usage
+
+### [1.1](#11-data-handling-commitments) Data Handling Commitments
+I do not collect, track, or store any personal data. This app does not use third-party libraries for advertising, analytics, or tracking. All code is native Apple code, ensuring maximum security and integration with the system.
+
+## 2. Network Extension and DNS
+
+### [2.1](#21-local-dns-proxy) Local DNS Proxy
+The app utilizes a Network Extension to provide protection. Although this may appear as a "VPN" in your system settings, it is a **Local DNS Proxy**.
+
+### [2.2](#22-on-device-processing) On-Device Processing
+All domain filtering and blocking happen locally on your device. Your browsing history is never sent to me or any third party.
+
+### [2.3](#23-remote-resolution) Remote Resolution
+To provide internet connectivity, unblocked domains are sent to a public DNS resolver of your choice to be translated into IP addresses.
+
+### [2.4](#24-encrypted-dns) Encrypted DNS
+You can choose to use encrypted DNS (DNS-over-HTTPS or DNS-over-TLS) within the app to prevent your ISP or local network from seeing your requests.
+
+## 3. Third-Party DNS Providers
+
+### [3.1](#31-provider-privacy-policies) Provider Privacy Policies
+When you select a DNS provider, your unblocked requests are subject to their respective privacy policies. You can choose from the following:
+(a) [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+(b) [Google Public DNS Privacy](https://developers.google.com/speed/public-dns/privacy).
+(c) [Yandex Privacy Policy](https://yandex.com/legal/confidential/).
+(d) [Alibaba Cloud Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm).
+(e) [Tencent Privacy Policy](https://www.tencent.com/en-us/privacy-policy.html).
+
+## 4. Customer Support
+
+### [4.1](#41-support-email-handling) Support Email Handling
+If you contact me via email through the Customer Support feature:
+(a) Your email address is used solely to respond to your inquiry.
+(b) I do not share your email with third parties.
+(c) I do not use your email for marketing, advertising, or spam.
+(d) I do not use your contact information for any form of analytics.
+(e) Support emails are retained only as long as necessary to resolve your issue and are subsequently deleted.
+
+## 5. User Rights (GDPR and CCPA)
+
+### [5.1](#51-data-rights-request) Data Rights Request
+Under GDPR and CCPA, you have the right to request access to or deletion of your personal data. Because I do not collect or store your personal data, there is no data to access or delete.
+
+## 6. Children's Privacy (COPPA)
+
+### [6.1](#61-childrens-data-protection) Children's Data Protection
+This app is not intended for use by children under the age of 13. I do not knowingly collect personal data from minors. If you believe a child has provided me with personal information, please contact support so I can take steps to remove such information.
+
+## 7. Sandboxing and Security
+
+### [7.1](#71-macos-sandbox-model) macOS Sandbox Model
+The macOS version of this app operates within the system Sandbox, ensuring it only accesses the resources necessary to function, further protecting your system data.
+
+## 8. Acceptance and Changes
+
+### [8.1](#81-policy-acceptance) Policy Acceptance
+By using this app, you accept the terms of this Privacy Policy.
+
+### [8.2](#82-policy-updates) Policy Updates
+I may update this policy from time to time; any changes will be reflected in the "What's New" section of the App Store updates.
+
+---
+Last Updated: March 07, 2026
