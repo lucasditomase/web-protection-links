@@ -63,13 +63,13 @@ This Privacy Policy describes how your personal information is handled. I am an 
   
 - ### [3.2](#32-provider-control-and-availability) Provider Control and Availability  
   Third-party DNS providers are independent services and are not owned or operated by me. While I do not collect or store personal data, third-party DNS providers may process or log data under their own privacy policies, including IP addresses, DNS query history, and other technical or account-related information; some providers may collect less data or none at all, depending on their own practices. I do not control what providers block, allow, log, retain, or how they secure and process DNS requests. I do not guarantee provider availability, uptime, latency, accuracy, or uninterrupted operation, and I am not responsible for outages, filtering differences, or service-quality issues caused by those providers. You can change providers at any time within the app settings, and each provider's own terms and privacy policy govern their services and data practices. Choosing a provider is a user decision, and users should review provider terms and privacy policies before use. For service limitations and liability allocation, see Section 6.2 of the Terms of Service.  
-
+  
 - ### [3.3](#33-provider-ownership-trademarks-and-no-affiliation) Provider Ownership, Trademarks, and No Affiliation  
   Third-party DNS services referenced in this policy are provided by their respective organizations (for example: Cloudflare by Cloudflare, Google Public DNS by Google, Yandex DNS by Yandex, Alibaba DNS by Alibaba Cloud, and Tencent DNS by Tencent). All copyrights, trademarks, service marks, logos, and related content for those services belong to their respective owners. References and links are provided for user convenience only. I do not claim ownership of third-party provider content or marks, and I am not affiliated with, endorsed by, or in a partnership with those providers.  
-
+  
 - ### [3.4](#34-regional-availability-network-restrictions-and-legal-compliance) Regional Availability, Network Restrictions, and Legal Compliance  
   Third-party DNS providers and related technologies (including encrypted DNS such as DNS-over-HTTPS and DNS-over-TLS) may be available in some countries or regions and unavailable or restricted in others. Availability may also differ by network operator, ISP, enterprise network, school network, or local firewall policy, and some services or technologies may be blocked even where they are generally lawful. I do not control these restrictions or their enforcement. Users are responsible for checking and complying with local laws, regulations, and network policies before using these services or technologies.  
-
+  
 ## 4. Customer Support  
   
 - ### [4.1](#41-support-email-handling) Support Email Handling  
@@ -107,4 +107,4 @@ This Privacy Policy describes how your personal information is handled. I am an 
   Unless otherwise stated, policy updates are effective on the date they are published in this document.  
   
 ---  
-Last Updated: March 07, 2026
+Last Updated: March 07, 2026  

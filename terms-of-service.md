@@ -132,13 +132,13 @@ By using this application, you agree to the following terms of service. I am an 
   
 - ### [6.2](#62-provider-control-filtering-and-availability) Provider Control, Filtering, and Availability  
   Third-party DNS providers are independent services and are not owned or operated by me. I do not control what they block, allow, log, retain, or how they secure and process DNS requests. I do not guarantee provider availability, uptime, latency, accuracy, or uninterrupted operation, and I am not responsible for outages, filtering differences, or service-quality issues caused by those providers. You can change providers at any time within the app settings, and each provider's own terms and privacy policy govern their services and data practices. For privacy and data-handling context, see Section 3.2 of the Privacy Policy.  
-
+  
 - ### [6.3](#63-provider-ownership-trademarks-and-no-affiliation) Provider Ownership, Trademarks, and No Affiliation  
   Third-party DNS services referenced in these terms are provided by their respective organizations (for example: Cloudflare by Cloudflare, Google Public DNS by Google, Yandex DNS by Yandex, Alibaba DNS by Alibaba Cloud, and Tencent DNS by Tencent). All copyrights, trademarks, service marks, logos, and related content for those services belong to their respective owners. References and links are provided for user convenience only. I do not claim ownership of third-party provider content or marks, and I am not affiliated with, endorsed by, or in a partnership with those providers.  
-
+  
 - ### [6.4](#64-regional-availability-network-restrictions-and-legal-compliance) Regional Availability, Network Restrictions, and Legal Compliance  
   Third-party DNS providers and related technologies (including encrypted DNS such as DNS-over-HTTPS and DNS-over-TLS) may be available in some countries or regions and unavailable or restricted in others. Availability may also differ by network operator, ISP, enterprise network, school network, or local firewall policy, and some services or technologies may be blocked even where they are generally lawful. I do not control these restrictions or their enforcement. Users are responsible for checking and complying with local laws, regulations, and network policies before using these services or technologies.  
-
+  
 ## 7. Termination and Modification  
   
 - ### [7.1](#71-service-changes) Service Changes  
@@ -159,4 +159,4 @@ By using this application, you agree to the following terms of service. I am an 
   I may update these terms of service from time to time. Material or user-impacting changes may be reflected in the "What's New" section of App Store updates when relevant. Minor editorial or non-substantive updates may be published directly in this file without a separate App Store notice. The "Last Updated" date reflects the latest revision, and you can review prior revisions in this repository's commit history. Unless otherwise stated, updated terms are effective on the date they are published in this document.  
   
 ---  
-Last Updated: March 07, 2026
+Last Updated: March 07, 2026  
