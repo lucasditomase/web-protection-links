@@ -5,12 +5,15 @@ By using this application, you agree to the following terms of service; I am an 
 ## Table of Contents  
   
 - [1. Intellectual Property and Distribution](#1-intellectual-property-and-distribution)  
+
   - [1.1 Ownership](#11-ownership)  
   - [1.2 Official Source](#12-official-source)  
   - [1.3 Prohibited Use](#13-prohibited-use)  
   - [1.4 Resale and Redistribution](#14-resale-and-redistribution)  
   - [1.5 Trademark and Brand Use](#15-trademark-and-brand-use)  
+
 - [2. Prohibited Activities](#2-prohibited-activities)  
+
   - [2.1 Reverse Engineering](#21-reverse-engineering)  
   - [2.2 Unauthorized Modifications](#22-unauthorized-modifications)  
   - [2.3 Illegal Use](#23-illegal-use)  
@@ -19,7 +22,9 @@ By using this application, you agree to the following terms of service; I am an 
   - [2.6 False or Misleading Statements](#26-false-or-misleading-statements)  
   - [2.7 Impersonation](#27-impersonation)  
   - [2.8 Circumvention](#28-circumvention)  
+
 - [3. Payments, Subscriptions, and Offers](#3-payments-subscriptions-and-offers)  
+
   - [3.1 Abuse Policy](#31-abuse-policy)  
   - [3.2 Final Discretion](#32-final-discretion)  
   - [3.3 Apple Subscriptions](#33-apple-subscriptions)  
@@ -31,27 +36,37 @@ By using this application, you agree to the following terms of service; I am an 
   - [3.6 Feature Availability and Product Scope Changes](#36-feature-availability-and-product-scope-changes)  
     - [3.6.1 Feature Scope and Availability](#361-feature-scope-and-availability)  
     - [3.6.2 External and Technical Change Drivers](#362-external-and-technical-change-drivers)  
+
 - [4. Limitation of Liability](#4-limitation-of-liability)  
+
   - [4.1 No Warranties](#41-no-warranties)  
   - [4.2 Damages Limitation](#42-damages-limitation)  
   - [4.3 Scope of Liability Exclusions](#43-scope-of-liability-exclusions)  
+
 - [5. Communication and Support](#5-communication-and-support)  
+
   - [5.1 Technical Support](#51-technical-support)  
   - [5.2 No Marketing](#52-no-marketing)  
   - [5.3 Official Information](#53-official-information)  
   - [5.4 Revenue and Sponsorship Disclosure](#54-revenue-and-sponsorship-disclosure)  
+
 - [6. Third-Party DNS Providers](#6-third-party-dns-providers)  
+
   - [6.1 Provider Terms](#61-provider-terms)  
   - [6.2 Provider Control, Filtering, and Availability](#62-provider-control-filtering-and-availability)  
   - [6.3 Provider Ownership, Trademarks, and No Affiliation](#63-provider-ownership-trademarks-and-no-affiliation)  
   - [6.4 Regional Availability, Network Restrictions, and Legal Compliance](#64-regional-availability-network-restrictions-and-legal-compliance)  
+
 - [7. Termination and Modification](#7-termination-and-modification)  
+
   - [7.1 Service Changes](#71-service-changes)  
   - [7.2 Termination Rights](#72-termination-rights)  
   - [7.3 Enforcement Actions](#73-enforcement-actions)  
     - [7.3.1 Immediate Suspension and Permanent Blocking](#731-immediate-suspension-and-permanent-blocking)  
     - [7.3.2 Enforcement Independent of Purchase Status](#732-enforcement-independent-of-purchase-status)  
+
 - [8. Acceptance of Terms](#8-acceptance-of-terms)  
+
   - [8.1 Acceptance of Terms](#81-acceptance-of-terms)  
   - [8.2 Updates and Effective Date](#82-updates-and-effective-date)  
   
