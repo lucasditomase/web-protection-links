@@ -99,4 +99,4 @@ This Privacy Policy describes how your personal information is handled. I am an 
   Unless otherwise stated, policy updates are effective on the date they are published in this document.  
   
 ---  
-Last Updated: March 07, 2026
+Last Updated: March 07, 2026  
