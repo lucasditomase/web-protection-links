@@ -34,6 +34,7 @@ By using this application, you agree to the following terms of service. I am an 
   - [5.1 Technical Support](#51-technical-support)  
   - [5.2 No Marketing](#52-no-marketing)  
   - [5.3 Official Information](#53-official-information)  
+  - [5.4 Revenue and Sponsorship Disclosure](#54-revenue-and-sponsorship-disclosure)  
 - [6. Third-Party DNS Providers](#6-third-party-dns-providers)  
   - [6.1 Provider Terms](#61-provider-terms)  
   - [6.2 Provider Control, Filtering, and Availability](#62-provider-control-filtering-and-availability)  
@@ -131,7 +132,10 @@ By using this application, you agree to the following terms of service. I am an 
   
 - ### [5.3](#53-official-information) Official Information  
   I am the only official source of information regarding the development and status of my applications.  
-  
+
+- ### [5.4](#54-revenue-and-sponsorship-disclosure) Revenue and Sponsorship Disclosure  
+  My app-related income comes only from app purchases and in-app purchases made through the App Store. I do not sell user data. I do not accept paid promotions, sponsorships, or marketing offers from third parties to advertise or promote external apps, products, services, or websites inside my apps.  
+
 ## 6. Third-Party DNS Providers  
   
 - ### [6.1](#61-provider-terms) Provider Terms  

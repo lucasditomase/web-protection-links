@@ -33,7 +33,7 @@ This Privacy Policy describes how your personal information is handled. I am an 
 ## 1. Data Collection and Usage  
   
 - ### [1.1](#11-data-handling-commitments) Data Handling Commitments  
-  I do not collect, track, or store any personal data. This app does not use third-party libraries for advertising, analytics, or tracking. All code is native Apple code, ensuring maximum security and integration with the system.  
+  I do not collect, track, or store any personal data. This app does not use third-party libraries for advertising, analytics, or tracking. I do not sell user data. My only income from the app ecosystem is app purchases and in-app purchases. I do not accept paid marketing placements from third parties to promote their apps, products, or websites inside my apps. All code is native Apple code, ensuring maximum security and integration with the system.  
   
 - ### [1.2](#12-apple-billing-payments-and-refund-processing) Apple Billing, Payments, and Refund Processing  
   Purchases, subscriptions, billing details, payment instruments, and refund requests are handled by Apple through your App Store account under Apple's systems and policies. I cannot issue refunds directly, do not process card payments, and do not control Apple's billing records. I also do not have access to your full payment or billing identity details, such as full credit/debit card information, billing addresses, or other Apple-held payment credentials. Any refund decisions and payment-data handling are controlled by Apple under Apple's policies.  
