@@ -34,6 +34,7 @@ By using this application, you agree to the following terms of service. I am an 
 - [6. Third-Party DNS Providers](#6-third-party-dns-providers)  
   - [6.1 Provider Terms](#61-provider-terms)  
   - [6.2 Provider Control, Filtering, and Availability](#62-provider-control-filtering-and-availability)  
+  - [6.3 Provider Ownership, Trademarks, and No Affiliation](#63-provider-ownership-trademarks-and-no-affiliation)  
 - [7. Termination and Modification](#7-termination-and-modification)  
   - [7.1 Service Changes](#71-service-changes)  
   - [7.2 Termination Rights](#72-termination-rights)  
@@ -130,7 +131,10 @@ By using this application, you agree to the following terms of service. I am an 
   
 - ### [6.2](#62-provider-control-filtering-and-availability) Provider Control, Filtering, and Availability  
   Third-party DNS providers are independent services and are not owned or operated by me. I do not control what they block, allow, log, retain, or how they secure and process DNS requests. I do not guarantee provider availability, uptime, latency, accuracy, or uninterrupted operation, and I am not responsible for outages, filtering differences, or service-quality issues caused by those providers. You can change providers at any time within the app settings, and each provider's own terms and privacy policy govern their services and data practices. For privacy and data-handling context, see Section 3.2 of the Privacy Policy.  
-  
+
+- ### [6.3](#63-provider-ownership-trademarks-and-no-affiliation) Provider Ownership, Trademarks, and No Affiliation  
+  Third-party DNS services referenced in these terms are provided by their respective organizations (for example: Cloudflare by Cloudflare, Google Public DNS by Google, Yandex DNS by Yandex, Alibaba DNS by Alibaba Cloud, and Tencent DNS by Tencent). All copyrights, trademarks, service marks, logos, and related content for those services belong to their respective owners. References and links are provided for user convenience only. I do not claim ownership of third-party provider content or marks, and I am not affiliated with, endorsed by, or in a partnership with those providers.  
+
 ## 7. Termination and Modification  
   
 - ### [7.1](#71-service-changes) Service Changes  
