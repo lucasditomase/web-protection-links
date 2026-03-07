@@ -111,7 +111,7 @@ I am a solo developer and do not operate through a company team, employees, head
   If the application offers auto-renewing subscriptions, payment will be charged to your iTunes Account at the confirmation of purchase. Subscriptions automatically renew unless canceled at least 24 hours prior to the end of the current billing period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase.  
   
 - ### [3.4](#34-apple-billing-and-refund-authority) Apple Billing and Refund Authority  
-  Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I cannot issue refunds directly, do not process card payments, and do not control Apple's billing records. I also do not have access to your full payment or billing identity details, such as full credit/debit card information, billing addresses, or other Apple-held payment credentials. Any refund decisions and payment-data handling are controlled by Apple under Apple's policies.  
+  Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I cannot issue refunds directly, do not process card payments, and do not control Apple's billing records. I also do not have access to your full payment or billing identity details, such as full credit or debit card information, billing addresses, or other Apple-held payment credentials. Any refund decisions and payment-data handling are controlled by Apple under Apple's policies.  
   
 - ### [3.5](#35-business-model-and-monetization-changes) Business Model and Monetization Changes  
   I may change the app's business model, monetization structure, and purchase options at any time, with or without prior notice or consent, to the extent permitted by applicable law.  
@@ -151,7 +151,7 @@ I am a solo developer and do not operate through a company team, employees, head
   The customer support feature is provided to assist users with the application. Spamming my email addresses or App Store reviews is not allowed.  
   
 - ### [5.2](#52-no-marketing) No Marketing  
-  My contact addresses, especially customer support, are not to be used for marketing or promotional purposes. For app promotion, I use only official channels I control or contract directly with recognized providers (for example, Apple Ads placements on the App Store and cross-promotion banners inside my own apps). I do not pay individuals, unofficial websites, or unaffiliated third-party apps/platforms to promote my apps.  
+  My contact addresses, especially customer support, are not to be used for marketing or promotional purposes. For app promotion, I use only official channels I control or contract directly with recognized providers (for example, Apple Ads placements on the App Store and cross-promotion banners inside my own apps). I do not pay individuals, unofficial websites, or unaffiliated third-party apps or platforms to promote my apps.  
   
 - ### [5.3](#53-official-information) Official Information  
   I am the only official source of information regarding the development and status of my applications.  
