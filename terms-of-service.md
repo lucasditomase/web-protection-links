@@ -24,6 +24,7 @@ By using this application, you agree to the following terms of service. I am an 
   - [3.2 Final Discretion](#32-final-discretion)  
   - [3.3 Apple Subscriptions](#33-apple-subscriptions)  
   - [3.4 Apple Billing and Refund Authority](#34-apple-billing-and-refund-authority)  
+  - [3.5 Business Model and Monetization Changes](#35-business-model-and-monetization-changes)  
 - [4. Limitation of Liability](#4-limitation-of-liability)  
   - [4.1 No Warranties](#41-no-warranties)  
   - [4.2 Damages Limitation](#42-damages-limitation)  
@@ -101,7 +102,10 @@ By using this application, you agree to the following terms of service. I am an 
   
 - ### [3.4](#34-apple-billing-and-refund-authority) Apple Billing and Refund Authority  
   Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I cannot issue refunds directly, do not process card payments, and do not control Apple's billing records. I also do not have access to your full payment or billing identity details, such as full credit/debit card information, billing addresses, or other Apple-held payment credentials. Any refund decisions and payment-data handling are controlled by Apple under Apple's policies.  
-  
+
+- ### [3.5](#35-business-model-and-monetization-changes) Business Model and Monetization Changes  
+  I may change the app's business model, monetization structure, and purchase options at any time, with or without prior notice or consent, to the extent permitted by applicable law. This may be necessary to cover development, hosting, customer support, Apple Developer Program fees, developer tools, marketing or advertising costs, and other recurring or operational expenses, or to support ongoing product improvements and new features. Such changes may include adding, removing, or modifying paid features, in-app purchases, subscriptions, non-consumable purchases, app pricing, free trials, introductory offers, promotional offers, and offer or promo codes. Availability, pricing, and eligibility for these options may vary by country, region, platform, storefront rules, or account status.  
+
 ## 4. Limitation of Liability  
   
 - ### [4.1](#41-no-warranties) No Warranties  
