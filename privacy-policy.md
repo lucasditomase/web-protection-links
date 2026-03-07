@@ -60,7 +60,7 @@ This Privacy Policy describes how your personal information is handled. I am an 
   - (e) [Tencent Privacy Policy](https://www.tencent.com/en-us/privacy-policy.html).  
   
 - ### [3.2](#32-provider-control-and-availability) Provider Control and Availability  
-  Third-party DNS providers are independent services and are not owned or operated by me. I do not control their infrastructure, logging, retention, security practices, filtering decisions, uptime, or performance, and I do not guarantee uninterrupted availability or service quality. Their services may change or become unavailable without notice. You can change providers at any time within the app settings, and each provider's own privacy policy and terms govern how they process your DNS requests.  
+  Third-party DNS providers are independent services and are not owned or operated by me. I do not control what they block, allow, log, retain, or how they secure and process DNS requests. I do not guarantee provider availability, uptime, latency, accuracy, or uninterrupted operation, and I am not responsible for outages, filtering differences, or service-quality issues caused by those providers. You can change providers at any time within the app settings, and each provider's own terms and privacy policy govern their services and data practices. For service limitations and liability allocation, see Section 6.2 of the Terms of Service.  
   
 ## 4. Customer Support  
   

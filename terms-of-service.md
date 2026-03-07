@@ -129,7 +129,7 @@ By using this application, you agree to the following terms of service. I am an 
   - (e) [Tencent Terms of Service](https://www.tencent.com/en-us/service-agreement.html).  
   
 - ### [6.2](#62-provider-control-filtering-and-availability) Provider Control, Filtering, and Availability  
-  Third-party DNS providers are independent services and are not owned or operated by me. I do not control what they block, allow, log, retain, or how they secure and process DNS requests. I do not guarantee provider availability, uptime, latency, accuracy, or uninterrupted operation, and I am not responsible for outages, filtering differences, or service-quality issues caused by those providers. You can change providers at any time within the app settings, and each provider's own terms and privacy policy govern their services and data practices.  
+  Third-party DNS providers are independent services and are not owned or operated by me. I do not control what they block, allow, log, retain, or how they secure and process DNS requests. I do not guarantee provider availability, uptime, latency, accuracy, or uninterrupted operation, and I am not responsible for outages, filtering differences, or service-quality issues caused by those providers. You can change providers at any time within the app settings, and each provider's own terms and privacy policy govern their services and data practices. For privacy and data-handling context, see Section 3.2 of the Privacy Policy.  
   
 ## 7. Termination and Modification  
   
@@ -148,7 +148,7 @@ By using this application, you agree to the following terms of service. I am an 
   By using this app, you acknowledge that you have read, understood, and agreed to be bound by these terms. Failure to comply may result in restricted access to the application or its services.  
   
 - ### [8.2](#82-updates-and-effective-date) Updates and Effective Date  
-  I may update these terms of service from time to time. Material or user-impacting changes may be reflected in app-related release notes when relevant. Minor editorial or non-substantive updates may be published directly in this file without a separate release-note notice. The "Last Updated" date reflects the latest revision, and you can review prior revisions in this repository's commit history. Unless otherwise stated, updated terms are effective on the date they are published in this document.  
+  I may update these terms of service from time to time. Material or user-impacting changes may be reflected in the "What's New" section of App Store updates when relevant. Minor editorial or non-substantive updates may be published directly in this file without a separate App Store notice. The "Last Updated" date reflects the latest revision, and you can review prior revisions in this repository's commit history. Unless otherwise stated, updated terms are effective on the date they are published in this document.  
   
 ---  
 Last Updated: March 07, 2026
