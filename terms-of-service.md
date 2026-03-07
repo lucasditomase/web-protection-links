@@ -109,10 +109,10 @@ By using this application, you agree to the following terms of service. I am an 
   
 - ### [4.2](#42-damages-limitation) Damages Limitation  
   In no event shall I be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever, whether in an action of contract, negligence, or other tort, arising out of or in connection with the use of the application.  
-
+  
 - ### [4.3](#43-scope-of-liability-exclusions) Scope of Liability Exclusions  
   To the maximum extent permitted by applicable law, I am not liable for data loss, service interruptions, connectivity failures, account issues, third-party provider behavior, legal or regulatory consequences of user conduct, or any copyright, trademark, or other intellectual-property disputes arising from user actions or third-party content. Users are solely responsible for lawful use of the app and for compliance with applicable laws, regulations, and third-party terms.  
-
+  
 ## 5. Communication and Support  
   
 - ### [5.1](#51-technical-support) Technical Support  
