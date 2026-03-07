@@ -1,6 +1,7 @@
 # Privacy Policy  
   
 This Privacy Policy describes how your personal information is handled. I am an independent developer, and this app is designed with a "privacy-first" philosophy.  
+I am a solo developer and do not operate through a company team, employees, headquarters, or office.  
   
 ## Table of Contents  
   

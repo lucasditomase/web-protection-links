@@ -1,6 +1,7 @@
 # Terms of Service  
   
 By using this application, you agree to the following terms of service. I am an independent developer and the sole owner of this application, its code, and all related intellectual property.  
+I am a solo developer and do not operate through a company team, employees, headquarters, or office.  
   
 ## Table of Contents  
   
