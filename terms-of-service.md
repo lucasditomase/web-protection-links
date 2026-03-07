@@ -151,4 +151,4 @@ By using this application, you agree to the following terms of service. I am an 
   I may update these terms of service from time to time. Material changes may be communicated in app-related release notes when relevant. Unless otherwise stated, updated terms are effective on the date they are published in this document.  
   
 ---  
-Last Updated: March 07, 2026  
+Last Updated: March 07, 2026
