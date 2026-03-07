@@ -69,10 +69,10 @@ This Privacy Policy describes how your personal information is handled. I am an 
   
 - ### [3.2](#32-provider-control-and-availability) Provider Control and Availability  
   Third-party DNS providers are independent services and are not owned or operated by me.  
-
+  
 - ### [3.2.1](#321-provider-data-practices-and-service-limits) Provider Data Practices and Service Limits  
   While I do not collect or store personal data, third-party DNS providers may process or log data under their own privacy policies, including IP addresses, DNS query history, and other technical or account-related information; some providers may collect less data or none at all, depending on their own practices. I do not control what providers block, allow, log, retain, or how they secure and process DNS requests. I do not guarantee provider availability, uptime, latency, accuracy, or uninterrupted operation, and I am not responsible for outages, filtering differences, or service-quality issues caused by those providers.  
-
+  
 - ### [3.2.2](#322-user-choice-and-policy-governance) User Choice and Policy Governance  
   You can change providers at any time within the app settings, and each provider's own terms and privacy policy govern their services and data practices. Choosing a provider is a user decision, and users should review provider terms and privacy policies before use. For service limitations and liability allocation, see Section 6.2 of the Terms of Service.  
   
@@ -119,4 +119,4 @@ This Privacy Policy describes how your personal information is handled. I am an 
   Unless otherwise stated, policy updates are effective on the date they are published in this document.  
   
 ---  
-Last Updated: March 07, 2026
+Last Updated: March 07, 2026  
