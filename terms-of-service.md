@@ -114,22 +114,22 @@ By using this application, you agree to the following terms of service. I am an 
   
 - ### [3.5](#35-business-model-and-monetization-changes) Business Model and Monetization Changes  
   I may change the app's business model, monetization structure, and purchase options at any time, with or without prior notice or consent, to the extent permitted by applicable law.  
-
+  
   - ### [3.5.1](#351-reasons-for-monetization-changes) Reasons for Monetization Changes  
     Monetization changes may be necessary to cover development, hosting, customer support, Apple Developer Program fees, developer tools, marketing or advertising costs, and other recurring or operational expenses, to support ongoing product improvements and new features, or because prior app pricing or in-app purchase pricing was too low to sustainably cover these costs.  
-
+  
   - ### [3.5.2](#352-purchase-and-offer-configuration-changes) Purchase and Offer Configuration Changes  
     Changes may include adding, removing, or modifying paid features, in-app purchases, subscriptions, lifetime purchases, non-consumable purchases, app pricing, app discounts, free trials, introductory offers, promotional offers, Family Sharing purchase access, and offer or promo codes. Discounts, lifetime purchase availability, Family Sharing eligibility, pricing, and related eligibility terms may be introduced, changed, limited, or removed at any time. Availability, pricing, and eligibility for these options may vary by country, region, platform, storefront rules, or account status.  
-
+  
   - ### [3.5.3](#353-prior-pricing-and-offer-states) Prior Pricing and Offer States  
     Prior business models, pricing states, and promotional states (including earlier one-time purchase models, periods without in-app purchases, free download periods, free trials, promo or offer codes, introductory offers, discounts, or similar past statements) do not create a permanent entitlement and may be changed, discontinued, or replaced at any time.  
   
 - ### [3.6](#36-feature-availability-and-product-scope-changes) Feature Availability and Product Scope Changes  
   I may add, remove, limit, postpone, or discontinue app features at any time, with or without prior notice or consent, to the extent permitted by applicable law.  
-
+  
   - ### [3.6.1](#361-feature-scope-and-availability) Feature Scope and Availability  
     Specific features may become unavailable, region-limited, delayed, replaced, or materially changed over time.  
-
+  
   - ### [3.6.2](#362-external-and-technical-change-drivers) External and Technical Change Drivers  
     Feature and roadmap changes may occur for business or operational reasons (including development, hosting, support, tooling, and sustainability costs), because of Apple platform changes, App Store policy changes, App Store Review Guidelines updates, Apple API or framework changes, legal or regulatory requirements, compliance obligations, technical limitations, security considerations, third-party dependency changes, or other implementation and maintenance complications. Apple platform, API, or policy changes may require feature removal, modification, or replacement, and may also enable new features when technically and legally feasible.  
   
@@ -187,10 +187,10 @@ By using this application, you agree to the following terms of service. I am an 
   
 - ### [7.3](#73-enforcement-actions) Enforcement Actions  
   Violations may result in revocation of promotional eligibility, suspension of support access, reporting to Apple, and other actions permitted by law.  
-
+  
   - ### [7.3.1](#731-immediate-suspension-and-permanent-blocking) Immediate Suspension and Permanent Blocking  
     Detection, use, or attempted use of sideloading, jailbreaking, tampering, piracy, or other illegal activity may result in immediate suspension or permanent blocking of service access. Abusive behavior toward the developer or other users may also trigger immediate suspension or permanent blocking.  
-
+  
   - ### [7.3.2](#732-enforcement-independent-of-purchase-status) Enforcement Independent of Purchase Status  
     Enforcement actions may be applied regardless of active subscription status, prior in-app purchases, lifetime purchases, or remaining billing period, to the extent permitted by applicable law.  
   
