@@ -25,7 +25,12 @@ By using this application, you agree to the following terms of service. I am an 
   - [3.3 Apple Subscriptions](#33-apple-subscriptions)  
   - [3.4 Apple Billing and Refund Authority](#34-apple-billing-and-refund-authority)  
   - [3.5 Business Model and Monetization Changes](#35-business-model-and-monetization-changes)  
+    - [3.5.1 Reasons for Monetization Changes](#351-reasons-for-monetization-changes)  
+    - [3.5.2 Purchase and Offer Configuration Changes](#352-purchase-and-offer-configuration-changes)  
+    - [3.5.3 Prior Pricing and Offer States](#353-prior-pricing-and-offer-states)  
   - [3.6 Feature Availability and Product Scope Changes](#36-feature-availability-and-product-scope-changes)  
+    - [3.6.1 Feature Scope and Availability](#361-feature-scope-and-availability)  
+    - [3.6.2 External and Technical Change Drivers](#362-external-and-technical-change-drivers)  
 - [4. Limitation of Liability](#4-limitation-of-liability)  
   - [4.1 No Warranties](#41-no-warranties)  
   - [4.2 Damages Limitation](#42-damages-limitation)  
@@ -44,6 +49,8 @@ By using this application, you agree to the following terms of service. I am an 
   - [7.1 Service Changes](#71-service-changes)  
   - [7.2 Termination Rights](#72-termination-rights)  
   - [7.3 Enforcement Actions](#73-enforcement-actions)  
+    - [7.3.1 Immediate Suspension and Permanent Blocking](#731-immediate-suspension-and-permanent-blocking)  
+    - [7.3.2 Enforcement Independent of Purchase Status](#732-enforcement-independent-of-purchase-status)  
 - [8. Acceptance of Terms](#8-acceptance-of-terms)  
   - [8.1 Acceptance of Terms](#81-acceptance-of-terms)  
   - [8.2 Updates and Effective Date](#82-updates-and-effective-date)  
@@ -106,10 +113,25 @@ By using this application, you agree to the following terms of service. I am an 
   Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I cannot issue refunds directly, do not process card payments, and do not control Apple's billing records. I also do not have access to your full payment or billing identity details, such as full credit/debit card information, billing addresses, or other Apple-held payment credentials. Any refund decisions and payment-data handling are controlled by Apple under Apple's policies.  
   
 - ### [3.5](#35-business-model-and-monetization-changes) Business Model and Monetization Changes  
-  I may change the app's business model, monetization structure, and purchase options at any time, with or without prior notice or consent, to the extent permitted by applicable law. This may be necessary to cover development, hosting, customer support, Apple Developer Program fees, developer tools, marketing or advertising costs, and other recurring or operational expenses, or to support ongoing product improvements and new features. Such changes may include adding, removing, or modifying paid features, in-app purchases, subscriptions, lifetime purchases, non-consumable purchases, app pricing, app discounts, free trials, introductory offers, promotional offers, Family Sharing purchase access, and offer or promo codes. Discounts, lifetime purchase availability, Family Sharing eligibility, pricing, and related eligibility terms may be introduced, changed, limited, or removed at any time. Availability, pricing, and eligibility for these options may vary by country, region, platform, storefront rules, or account status. Prior business models, pricing states, and promotional states (including earlier one-time purchase models, periods without in-app purchases, free download periods, free trials, promo or offer codes, introductory offers, discounts, or similar past statements) do not create a permanent entitlement and may be changed, discontinued, or replaced at any time.  
+  I may change the app's business model, monetization structure, and purchase options at any time, with or without prior notice or consent, to the extent permitted by applicable law.  
+
+- ### [3.5.1](#351-reasons-for-monetization-changes) Reasons for Monetization Changes  
+  Monetization changes may be necessary to cover development, hosting, customer support, Apple Developer Program fees, developer tools, marketing or advertising costs, and other recurring or operational expenses, or to support ongoing product improvements and new features.  
+
+- ### [3.5.2](#352-purchase-and-offer-configuration-changes) Purchase and Offer Configuration Changes  
+  Changes may include adding, removing, or modifying paid features, in-app purchases, subscriptions, lifetime purchases, non-consumable purchases, app pricing, app discounts, free trials, introductory offers, promotional offers, Family Sharing purchase access, and offer or promo codes. Discounts, lifetime purchase availability, Family Sharing eligibility, pricing, and related eligibility terms may be introduced, changed, limited, or removed at any time. Availability, pricing, and eligibility for these options may vary by country, region, platform, storefront rules, or account status.  
+
+- ### [3.5.3](#353-prior-pricing-and-offer-states) Prior Pricing and Offer States  
+  Prior business models, pricing states, and promotional states (including earlier one-time purchase models, periods without in-app purchases, free download periods, free trials, promo or offer codes, introductory offers, discounts, or similar past statements) do not create a permanent entitlement and may be changed, discontinued, or replaced at any time.  
   
 - ### [3.6](#36-feature-availability-and-product-scope-changes) Feature Availability and Product Scope Changes  
-  I may add, remove, limit, postpone, or discontinue app features at any time, with or without prior notice or consent, to the extent permitted by applicable law. Feature and roadmap changes may occur for business or operational reasons (including development, hosting, support, tooling, and sustainability costs), because of Apple platform changes, App Store policy changes, App Store Review Guidelines updates, Apple API or framework changes, legal or regulatory requirements, compliance obligations, technical limitations, security considerations, third-party dependency changes, or other implementation and maintenance complications. As a result, specific features may become unavailable, region-limited, delayed, or materially changed over time. Apple platform, API, or policy changes may require feature removal, modification, or replacement, and may also enable new features when technically and legally feasible.  
+  I may add, remove, limit, postpone, or discontinue app features at any time, with or without prior notice or consent, to the extent permitted by applicable law.  
+
+- ### [3.6.1](#361-feature-scope-and-availability) Feature Scope and Availability  
+  Specific features may become unavailable, region-limited, delayed, replaced, or materially changed over time.  
+
+- ### [3.6.2](#362-external-and-technical-change-drivers) External and Technical Change Drivers  
+  Feature and roadmap changes may occur for business or operational reasons (including development, hosting, support, tooling, and sustainability costs), because of Apple platform changes, App Store policy changes, App Store Review Guidelines updates, Apple API or framework changes, legal or regulatory requirements, compliance obligations, technical limitations, security considerations, third-party dependency changes, or other implementation and maintenance complications. Apple platform, API, or policy changes may require feature removal, modification, or replacement, and may also enable new features when technically and legally feasible.  
   
 ## 4. Limitation of Liability  
   
@@ -164,7 +186,13 @@ By using this application, you agree to the following terms of service. I am an 
   I may terminate your access to the application and its services at any time, without notice, if you violate these terms of service.  
   
 - ### [7.3](#73-enforcement-actions) Enforcement Actions  
-  Violations may result in revocation of promotional eligibility, suspension of support access, reporting to Apple, and other actions permitted by law. Detection, use, or attempted use of sideloading, jailbreaking, tampering, piracy, or other illegal activity may result in immediate suspension or permanent blocking of service access. Abusive behavior toward the developer or other users may also trigger immediate suspension or permanent blocking. These enforcement actions may be applied regardless of active subscription status, prior in-app purchases, lifetime purchases, or remaining billing period, to the extent permitted by applicable law.  
+  Violations may result in revocation of promotional eligibility, suspension of support access, reporting to Apple, and other actions permitted by law.  
+
+- ### [7.3.1](#731-immediate-suspension-and-permanent-blocking) Immediate Suspension and Permanent Blocking  
+  Detection, use, or attempted use of sideloading, jailbreaking, tampering, piracy, or other illegal activity may result in immediate suspension or permanent blocking of service access. Abusive behavior toward the developer or other users may also trigger immediate suspension or permanent blocking.  
+
+- ### [7.3.2](#732-enforcement-independent-of-purchase-status) Enforcement Independent of Purchase Status  
+  Enforcement actions may be applied regardless of active subscription status, prior in-app purchases, lifetime purchases, or remaining billing period, to the extent permitted by applicable law.  
   
 ## 8. Acceptance of Terms  
   
