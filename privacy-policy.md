@@ -5,49 +5,58 @@ This Privacy Policy describes how your personal information is handled; I am an 
 ## Table of Contents  
   
 - [1. Data Collection and Usage](#1-data-collection-and-usage)  
-  
+
   - [1.1 Data Handling Commitments](#11-data-handling-commitments)  
+
   - [1.2 Apple Billing, Payments, and Refund Processing](#12-apple-billing-payments-and-refund-processing)  
-  
+
 - [2. Network Extension and DNS](#2-network-extension-and-dns)  
-  
+
   - [2.1 Local DNS Proxy](#21-local-dns-proxy)  
+
   - [2.2 On-Device Processing](#22-on-device-processing)  
+
   - [2.3 Remote Resolution](#23-remote-resolution)  
+
   - [2.4 Encrypted DNS](#24-encrypted-dns)  
+
   - [2.5 Service Availability and Blocking Accuracy](#25-service-availability-and-blocking-accuracy)  
-  
+
 - [3. Third-Party DNS Providers](#3-third-party-dns-providers)  
-  
+
   - [3.1 Provider Privacy Policies](#31-provider-privacy-policies)  
+
   - [3.2 Provider Control and Availability](#32-provider-control-and-availability)  
   
     - [3.2.1 Provider Data Practices and Service Limits](#321-provider-data-practices-and-service-limits)  
+
     - [3.2.2 User Choice and Policy Governance](#322-user-choice-and-policy-governance)  
+
   - [3.3 Provider Ownership, Trademarks, and No Affiliation](#33-provider-ownership-trademarks-and-no-affiliation)  
+
   - [3.4 Regional Availability, Network Restrictions, and Legal Compliance](#34-regional-availability-network-restrictions-and-legal-compliance)  
-  
+
 - [4. Customer Support](#4-customer-support)  
-  
+
   - [4.1 Support Email Handling](#41-support-email-handling)  
-  
+
 - [5. User Rights (GDPR and CCPA)](#5-user-rights-gdpr-and-ccpa)  
-  
+
   - [5.1 Data Rights Request](#51-data-rights-request)  
-  
+
 - [6. Children's Privacy (COPPA)](#6-childrens-privacy-coppa)  
-  
+
   - [6.1 Children's Data Protection](#61-childrens-data-protection)  
-  
+
 - [7. Sandboxing and Security](#7-sandboxing-and-security)  
-  
+
   - [7.1 macOS Sandbox Model](#71-macos-sandbox-model)  
-  
+
 - [8. Acceptance and Changes](#8-acceptance-and-changes)  
-  
+
   - [8.1 Policy Acceptance](#81-policy-acceptance)  
+
   - [8.2 Policy Updates](#82-policy-updates)  
-  
 ## 1. Data Collection and Usage  
   
 - ### [1.1](#11-data-handling-commitments) Data Handling Commitments  
