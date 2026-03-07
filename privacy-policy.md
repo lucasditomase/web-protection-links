@@ -87,13 +87,13 @@ This Privacy Policy describes how your personal information is handled; I am an 
 - ### [3.1](#31-provider-privacy-policies) Provider Privacy Policies  
   When you select a DNS provider, your unblocked requests are subject to their respective privacy policies. You can choose from the following:  
   - (a) [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).  
-
+  
   - (b) [Google Public DNS Privacy](https://developers.google.com/speed/public-dns/privacy).  
-
+  
   - (c) [Yandex Privacy Policy](https://yandex.com/legal/confidential/).  
-
+  
   - (d) [Alibaba Cloud Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm).  
-
+  
   - (e) [Tencent Privacy Policy](https://www.tencent.com/en-us/privacy-policy.html).  
   
 - ### [3.2](#32-provider-control-and-availability) Provider Control and Availability  
@@ -116,13 +116,13 @@ This Privacy Policy describes how your personal information is handled; I am an 
 - ### [4.1](#41-support-email-handling) Support Email Handling  
   If you contact me via email through the Customer Support feature:  
   - (a) Your email address is used solely to respond to your inquiry.  
-
+  
   - (b) I do not share your email with third parties.  
-
+  
   - (c) I do not use your email for marketing, advertising, or spam.  
-
+  
   - (d) I do not use your contact information for any form of analytics.  
-
+  
   - (e) Support emails are retained only as long as necessary to resolve your issue and are subsequently deleted.  
   
 ## 5. User Rights (GDPR and CCPA)  
