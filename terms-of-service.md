@@ -103,13 +103,13 @@ By using this application, you agree to the following terms of service. I am an 
   
 - ### [3.4](#34-apple-billing-and-refund-authority) Apple Billing and Refund Authority  
   Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I cannot issue refunds directly, do not process card payments, and do not control Apple's billing records. I also do not have access to your full payment or billing identity details, such as full credit/debit card information, billing addresses, or other Apple-held payment credentials. Any refund decisions and payment-data handling are controlled by Apple under Apple's policies.  
-
+  
 - ### [3.5](#35-business-model-and-monetization-changes) Business Model and Monetization Changes  
   I may change the app's business model, monetization structure, and purchase options at any time, with or without prior notice or consent, to the extent permitted by applicable law. This may be necessary to cover development, hosting, customer support, Apple Developer Program fees, developer tools, marketing or advertising costs, and other recurring or operational expenses, or to support ongoing product improvements and new features. Such changes may include adding, removing, or modifying paid features, in-app purchases, subscriptions, lifetime purchases, non-consumable purchases, app pricing, app discounts, free trials, introductory offers, promotional offers, Family Sharing purchase access, and offer or promo codes. Discounts, lifetime purchase availability, Family Sharing eligibility, pricing, and related eligibility terms may be introduced, changed, limited, or removed at any time. Availability, pricing, and eligibility for these options may vary by country, region, platform, storefront rules, or account status.  
-
+  
 - ### [3.6](#36-feature-availability-and-product-scope-changes) Feature Availability and Product Scope Changes  
   I may add, remove, limit, postpone, or discontinue app features at any time, with or without prior notice or consent, to the extent permitted by applicable law. Feature and roadmap changes may occur for business or operational reasons (including development, hosting, support, tooling, and sustainability costs), because of Apple platform or App Store policy changes, Apple API or framework changes, legal or regulatory requirements, compliance obligations, technical limitations, security considerations, third-party dependency changes, or other implementation and maintenance complications. As a result, specific features may become unavailable, region-limited, delayed, or materially changed over time.  
-
+  
 ## 4. Limitation of Liability  
   
 - ### [4.1](#41-no-warranties) No Warranties  
