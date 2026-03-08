@@ -57,7 +57,7 @@ By using this application, you agree to the following terms of service; I am an 
     - [3.6.1 Feature Scope and Availability](#361-feature-scope-and-availability)  
   
     - [3.6.2 External and Technical Change Drivers](#362-external-and-technical-change-drivers)  
-
+  
   - [3.7 Family Sharing Eligibility and Misuse](#37-family-sharing-eligibility-and-misuse)  
   
 - [4. Limitation of Liability](#4-limitation-of-liability)  
@@ -181,11 +181,11 @@ By using this application, you agree to the following terms of service; I am an 
     Specific features may become unavailable, region-limited, delayed, replaced, or materially changed over time.  
   
   - ### [3.6.2](#362-external-and-technical-change-drivers) External and Technical Change Drivers  
-    Feature and roadmap changes may occur for business or operational reasons (including development, hosting, support, tooling, and sustainability costs), because of Apple platform changes, App Store policy changes, App Store Review Guidelines updates, Apple API or framework changes, legal or regulatory requirements, compliance obligations, technical limitations, security considerations, third-party dependency changes, or other implementation and maintenance complications. Apple platform, API, or policy changes may require feature removal, modification, or replacement, and may also enable new features when technically and legally feasible.
-
+    Feature and roadmap changes may occur for business or operational reasons (including development, hosting, support, tooling, and sustainability costs), because of Apple platform changes, App Store policy changes, App Store Review Guidelines updates, Apple API or framework changes, legal or regulatory requirements, compliance obligations, technical limitations, security considerations, third-party dependency changes, or other implementation and maintenance complications. Apple platform, API, or policy changes may require feature removal, modification, or replacement, and may also enable new features when technically and legally feasible.  
+  
 - ### [3.7](#37-family-sharing-eligibility-and-misuse) Family Sharing Eligibility and Misuse  
-  Family Sharing access for subscriptions or non-consumable purchases requires that all participating family members use App Store accounts in the same country or region, subject to Apple's rules. Family Sharing may only be used to share purchases with your own family group; misuse or abuse (including attempts to use Family Sharing for non-family purposes) may result in loss of access to the service, to the extent permitted by applicable law.
-
+  Family Sharing access for subscriptions or non-consumable purchases requires that all participating family members use App Store accounts in the same country or region, subject to Apple's rules. Family Sharing may only be used to share purchases with your own family group; misuse or abuse (including attempts to use Family Sharing for non-family purposes) may result in loss of access to the service, to the extent permitted by applicable law.  
+  
 ## 4. Limitation of Liability  
   
 - ### [4.1](#41-no-warranties) No Warranties  
@@ -260,4 +260,4 @@ By using this application, you agree to the following terms of service; I am an 
   I may update these terms of service from time to time. Material or user-impacting changes may be reflected in the "What's New" section of App Store updates when relevant. Minor editorial or non-substantive updates may be published directly in this file without a separate App Store notice. The "Last Updated" date reflects the latest revision, and you can review prior revisions in this repository's commit history. Unless otherwise stated, updated terms are effective on the date they are published in this document.  
   
 ---  
-Last Updated: March 07, 2026  
+Last Updated: March 08, 2026  
