@@ -111,7 +111,7 @@ By using this application, you agree to the following terms of service; I am an 
   I am the exclusive owner of the application, its source code, assets (including icons and UI), and all intellectual property.  
   
 - ### [1.2](#12-official-source) Official Source  
-  This application is only available through the Apple App Store. Distribution outside of this platform is strictly prohibited.  
+  This application is only available through the Apple App Store. Distribution outside of this platform is strictly prohibited. All purchases are processed exclusively by Apple through the App Store. I do not accept personal payments through any payment method, and there is no alternative purchase channel for this app.  
   
 - ### [1.3](#13-prohibited-use) Prohibited Use  
   You may not create apps using my name or assets, nor may you create forums, social media accounts, or blogs that attempt to impersonate me or speak on my behalf.  
@@ -160,7 +160,7 @@ By using this application, you agree to the following terms of service; I am an 
   If the application offers auto-renewing subscriptions, payment will be charged to your iTunes Account at the confirmation of purchase. Subscriptions automatically renew unless canceled at least 24 hours prior to the end of the current billing period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase.  
   
 - ### [3.4](#34-apple-billing-and-refund-authority) Apple Billing and Refund Authority  
-  Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I cannot issue refunds directly, do not process card payments, and do not control Apple's billing records. I also do not have access to your full payment or billing identity details, such as full credit or debit card information, billing addresses, or other Apple-held payment credentials. Any refund decisions and payment-data handling are controlled by Apple under Apple's policies.  
+  Billing, subscription management, payment data handling, and refund processing are handled by Apple through your App Store account, subject to Apple's policies. I cannot issue refunds directly, do not process card payments, and do not control Apple's billing records. I also do not have access to your full payment or billing identity details, such as full credit or debit card information, billing addresses, or other Apple-held payment credentials. Any refund decisions and payment-data handling are controlled by Apple under Apple's policies. I do not accept direct personal payments by any method, and purchases are only available through Apple's App Store purchase systems.  
   
 - ### [3.5](#35-business-model-and-monetization-changes) Business Model and Monetization Changes  
   I may change the app's business model, monetization structure, and purchase options at any time, with or without prior notice or consent, to the extent permitted by applicable law.  
