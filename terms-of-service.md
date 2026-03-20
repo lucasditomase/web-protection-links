@@ -237,7 +237,7 @@ By using this application, you agree to the following terms of service; I am an 
 ## 7. Termination and Modification  
   
 - ### [7.1](#71-service-changes) Service Changes  
-  I reserve the right to modify, suspend, discontinue, replace, or remove the application (or any part thereof) at any time, with or without notice. Older versions of the app may become unavailable on the App Store for download or redownload, including when a newer version is released to replace them. Updating to the latest available version may be required in some cases, including for security, legal, compatibility, stability, maintenance, or bug-fix reasons.  
+  I reserve the right to modify, suspend, discontinue, replace, or remove the application (or any part thereof) at any time, with or without notice. Older versions of the app may become unavailable on the App Store for download or redownload, including when a newer version is released to replace them. Updating to the latest available version may be required in some cases, including for security, legal, compatibility, stability, maintenance, or bug-fix reasons. Support for older versions of iOS, iPadOS, macOS, or visionOS, and for older iPhone, iPad, Mac, or Apple Vision Pro device models, may also be dropped at any time, including for security, legal, compatibility, stability, maintenance, or bug-fix reasons.  
   
 - ### [7.2](#72-termination-rights) Termination Rights  
   I may terminate your access to the application and its services at any time, without notice, if you violate these terms of service.  
