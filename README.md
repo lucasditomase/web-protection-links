@@ -9,8 +9,8 @@ A comprehensive defense against malicious websites, phishing attempts, and onlin
 • **Apple Ecosystem Integration**: Built for iOS, iPadOS, and macOS Sandboxing.  
   
 ### Support & Contact  
-• **In-App**: Use the integrated support button to send me an email.  
-• **GitHub**: Technical feedback is welcome. Please [open an issue](https://github.com/lucasditomase/web-protection-links/issues/new).  
+• **In-App**: Contact me directly through the Customer Support feature within the app.  
+• **GitHub**: Report bugs or share feedback by [opening an issue](https://github.com/lucasditomase/web-protection-links/issues/new).  
   
 ### Legal  
 • [Privacy Policy](https://github.com/lucasditomase/web-protection-links/blob/main/privacy-policy.md).  
