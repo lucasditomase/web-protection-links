@@ -1,12 +1,12 @@
 # Web Protection  
   
-A comprehensive defense against malicious websites, phishing attempts, and online scams. Web Protection monitors your network connections locally to ensure your personal data stays safe.  
+Protection against malicious websites, phishing attempts, and online scams. Web Protection monitors your network connections locally to help keep your personal data safe.  
   
 ### Key Features  
 - **Threat Detection**: Real-time identification of dangerous domains.  
 - **Statistics & Logs**: Gain full visibility into your device's network activity.  
 - **One-Button Safety**: Configure and enable protection with zero friction.  
-- **Apple Ecosystem Integration**: Built for iOS, iPadOS, and macOS Sandboxing.  
+- **Apple Ecosystem Integration**: Built for iOS, iPadOS, and macOS with native system integration.  
   
 ### Support & Contact  
 - **In-App**: Contact me directly through the Customer Support feature within the app.  

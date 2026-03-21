@@ -33,6 +33,8 @@ By using this application, you agree to the following terms of service; I am an 
   - [2.7 Impersonation](#27-impersonation)  
   
   - [2.8 Circumvention](#28-circumvention)  
+
+  - [2.9 Apple Platform and Account Enforcement](#29-apple-platform-and-account-enforcement)  
   
 - [3. Payments, Subscriptions, and Offers](#3-payments-subscriptions-and-offers)  
   
@@ -147,6 +149,9 @@ By using this application, you agree to the following terms of service; I am an 
   
 - ### [2.8](#28-circumvention) Circumvention  
   Attempts to bypass technical protections, App Store controls, licensing limits, payment systems, or offer eligibility rules are prohibited.  
+
+- ### [2.9](#29-apple-platform-and-account-enforcement) Apple Platform and Account Enforcement  
+  Activities such as jailbreaking, sideloading abuse, certificate or TestFlight abuse, piracy, copyright infringement, circumvention of Apple platform protections, or misuse of Apple services may also violate Apple's own terms, policies, or developer rules. Apple may independently restrict, suspend, terminate, or otherwise limit accounts, purchases, TestFlight access, certificates, App Store services, or related platform access under Apple's rules, and I do not control those decisions.  
   
 ## 3. Payments, Subscriptions, and Offers  
   
